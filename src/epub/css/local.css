@@ -31,3 +31,9 @@ blockquote[xml|lang]{
 	font-style: italic;
 }
 /* end language styling */
+
+/* special blockquote */
+#chapter-2-20 blockquote > p{
+	text-align: center;
+}
+/* end special blockquote */
