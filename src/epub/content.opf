@@ -60,7 +60,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/9150</dc:source>
 		<dc:source>https://archive.org/details/dicksandsboycap00verngoog</dc:source>
 		<meta property="se:word-count">101449</meta>
-		<meta property="se:reading-ease.flesch">64.85</meta>
+		<meta property="se:reading-ease.flesch">64.95</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Dick_Sand,_A_Captain_at_Fifteen</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jules-verne_dick-sands-the-boy-captain_ellen-e-frewer</meta>
 		<dc:creator id="author">Jules Verne</dc:creator>
