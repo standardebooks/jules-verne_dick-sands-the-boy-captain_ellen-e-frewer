@@ -64,7 +64,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/9150</dc:source>
 		<dc:source>https://archive.org/details/dicksandsboycap00verngoog</dc:source>
-		<meta property="schema:wordCount">100991</meta>
+		<meta property="schema:wordCount">100984</meta>
 		<meta property="schema:educationalLevel">64.95</meta>
 		<link href="https://en.wikipedia.org/wiki/Dick_Sand,_A_Captain_at_Fifteen" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
